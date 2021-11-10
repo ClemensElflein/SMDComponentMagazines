@@ -1,6 +1,10 @@
 # SMD Component Magazines
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
+
+
+![image](img/image.jpg)
+
 ### Attribution
 
 This project is adapted from the "SMD Component Magazines" project by robin7331. The original project is available here: [Link to original Project](https://www.thingiverse.com/thing:3952021). The original work is licensed under [Creative Commons - Attribution - Non Commercial license](https://creativecommons.org/licenses/by-nc/4.0/).
