@@ -1,0 +1,2 @@
+# SMDComponentMagazines
+SMD Component Magazines
